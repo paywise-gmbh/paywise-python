@@ -1,0 +1,12 @@
+{
+  "cliVersion": "5.159.1",
+  "generatorName": "fernapi/fern-python-sdk",
+  "generatorVersion": "5.41.2",
+  "generatorConfig": {
+    "package_name": "paywise",
+    "client_class_name": "Paywise"
+  },
+  "invokedBy": "manual",
+  "requestedVersion": "0.1.0",
+  "sdkVersion": "0.1.0"
+}
