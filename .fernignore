@@ -1,0 +1,3 @@
+# Files the Fern generator must never overwrite or delete.
+README.md
+LICENSE
